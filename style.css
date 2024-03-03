@@ -1,0 +1,221 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+  }
+  h1{
+    font-size:40px ;
+    text-align: center;
+  }
+  .container{
+    border: 2px solid black;
+    border-radius: 50px;
+    /* height: 50vh; */
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    jusify-content: center;
+    aliign-items: center;
+  }
+  /* .container2{
+  
+    display: flex;
+    jusify-content: center;
+    aliign-items: center;
+  } */
+  .joke{
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin: 6% 10% 6% 10% ;
+  }
+  button{
+    font-size: 40px;
+    margin: 0px 0px 20px 0px;
+    align-self: center;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #00ff00;
+    color: black;
+    border: 2px solid black;
+  }
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 63px;
+        text-align: center;
+    }
+    .container {
+        border: 4px solid black;
+        border-radius: 50px;
+        /* height: 50vh; */
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        jusify-content: center;
+        aliign-items: center;
+    }
+    .joke {
+        font-family: sans-serif;
+        font-size: 62px;
+        text-align: center;
+        margin: 10% 5% 10% 5%;
+    }
+    button {
+        font-size: 48px;
+        margin: 0px 0px 20px 0px;
+        align-self: center;
+        padding: 8px;
+        border-radius: 10px;
+        background-color: #00ff00;
+        color: black;
+        border: 4px solid black;
+        border-radius: 25px;
+    }
+  }
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    h1 {
+        font-size: 100px;
+        text-align: center;
+    }
+    .container {
+        border: 8px solid black;
+        border-radius: 50px;
+        /* height: 50vh; */
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        jusify-content: center;
+        aliign-items: center;
+    }
+    .joke {
+        font-family: sans-serif;
+        font-size: 76px;
+        text-align: center;
+        margin: 15% 7% 15% 7%;
+    }
+    button {
+        font-size: 63px;
+        margin: -10px 0px 49px 0px;
+        align-self: center;
+        padding: 22px;
+        border-radius: 10px;
+        background-color: #00ff00;
+        color: black;
+        border: 6px solid black;
+        border-radius: 30px;
+    }
+  }
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    h1 {
+        font-size: 78px;
+        text-align: center;
+    }
+    .container {
+        border: 5px solid black;
+        border-radius: 50px;
+        /* height: 50vh; */
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        jusify-content: center;
+        aliign-items: center;
+    }
+    .joke {
+        font-family: sans-serif;
+        font-size: 73px;
+        text-align: center;
+        margin: 10% 7% 10% 7%;
+    }
+    button {
+        font-size: 55px;
+        margin: -10px 0px 49px 0px;
+        align-self: center;
+        padding: 22px;
+        border-radius: 10px;
+        background-color: #00ff00;
+        color: black;
+        border: 4px solid black;
+        border-radius: 30px;
+    }
+  }
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    html {
+      height: 100%;
+      width: 100%;
+      font-family: sans-serif;
+    }
+    h1{
+      font-size:40px ;
+      text-align: center;
+    }
+    .container{
+      border: 2px solid black;
+      border-radius: 50px;
+      /* height: 50vh; */
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      jusify-content: center;
+      aliign-items: center;
+    }
+    /* .container2{
+  
+      display: flex;
+      jusify-content: center;
+      aliign-items: center;
+    } */
+    .joke{
+      font-family: sans-serif;
+      font-size: 50px;
+      text-align: center;
+      margin: 6% 10% 6% 10% ;
+    }
+    button{
+      font-size: 40px;
+      margin: 0px 0px 20px 0px;
+      align-self: center;
+      padding: 5px;
+      border-radius: 10px;
+      background-color: #00ff00;
+      color: black;
+      border: 2px solid black;
+    }
+  }
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  /* @media only screen and (min-width: 1200px) {
+    h1 {
+        font-size: 78px;
+        text-align: center;
+    }
+    .container {
+        border: 6px solid black;
+        border-radius: 50px; */
+        /* height: 50vh; */
+        /* height: auto;
+        display: flex;
+        flex-direction: column;
+        jusify-content: center;
+        aliign-items: center;
+    }
+    .joke {
+        font-family: sans-serif;
+        font-size: 92px;
+        text-align: center;
+        margin: 3% 10% 3% 10%;
+    }
+    button {
+        font-size: 69px;
+        margin: 0px 0px 20px 0px;
+        align-self: center;
+        padding: 12px;
+        border-radius: 10px;
+        background-color: #00ff00;
+        color: black;
+        border: 5px solid black;
+        border-radius: 30px;
+    }
+  } */
