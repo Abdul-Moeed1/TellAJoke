@@ -327,16 +327,58 @@ I told her there were no girls allowed in my fort.`, `Why don't scientists trust
 let num = Math.floor(Math.random() * jokes.length);
 let joke = jokes[num];
 document.getElementById("joke").innerHTML=joke;
+let n=0;
 function newj()
 {
   num = Math.floor(Math.random() * jokes.length);
   joke = jokes[num];
   document.getElementById("joke").innerHTML=joke;
   console.log(`num:${num}`)
+  if(n==0)
+  {
+    document.getElementById("btn").style.background="#00ff00";
+    n++;
+  }
+  else if(n==1)
+  {
+    document.getElementById("btn").style.background="#00c3ff";
+    n++;
+  }
+  else if(n==2)
+  {
+    document.getElementById("btn").style.background="#0044ff";
+    n++;
+  }
+  else if(n==3)
+  {
+    document.getElementById("btn").style.background="#cc00ff";
+    n++;
+  }
+  else if(n==4)
+  {
+    document.getElementById("btn").style.background="#ff00aa";
+    n++;
+  }
+  else if(n==5)
+  {
+    document.getElementById("btn").style.background="#ff0040";
+    n++;
+  }
+  else if(n==6)
+  {
+    document.getElementById("btn").style.background="#ff6600";
+    n++;
+  }
+  else if(n==7)
+  {
+    document.getElementById("btn").style.background="#ffee00";
+    n=0;
+  }
+ 
 }
-function clr(){
-  document.getElementById("btn").style.background="aqua";
-}
-function c(){
-  document.getElementById("btn").style.background="#00ff00";
-}
+// function clr(){
+//   document.getElementById("btn").style.background="aqua";
+// }
+// function c(){
+//   document.getElementById("btn").style.background="#00ff00";
+// }
