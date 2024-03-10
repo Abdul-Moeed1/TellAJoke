@@ -284,8 +284,6 @@ I told her there were no girls allowed in my fort.`, `Why don't scientists trust
               `What's Donald Duck's favorite dance? The quackstep!`,
               `Why was the cartoon broom so confident? It swept the competition away!`,
               `What did one animated pencil say to another? "You draw me crazy!"`,
-              `How do you fix a broken tuba in a cartoon? With tuba glue!`,
-              `Why did the cartoon tomato turn red? Because it saw the salad dressing!`,
               `What's a cartoon character's favorite breakfast? Toaster strudel, of course!`,
               `Why did the cartoon character go to therapy? To work on his "toon" issues!`,
               `What do you call a fish who wears a crown? Nemo-archy!`,
