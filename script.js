@@ -29,8 +29,6 @@ It gets jalapeño business.`,
 ` Why should you never trust stairs?
 They’re always up to something.`,
 
-` When does a joke become a ‘dad’ joke?
-When it becomes apparent.`,
 
 ` Why did the bullet end up losing his job?
 He got fired.`,
@@ -157,8 +155,6 @@ Then it dawned on me.`,
 ` I told my friend ten jokes to make him laugh.
 Sadly, no pun in ten did.`,
 
-` I couldn’t believe the highway department called my dad a thief.
-But when I got home, the signs were all there.`,
 
 ` Why did the cowboy get a wiener dog?
 He wanted to get a long little doggie.`,
@@ -178,8 +174,6 @@ DiCaprio says, “I’ll act.”
 McConaughey says, “I’ll write, I’ll write, I’ll write.”
 `,     
              
-` I googled “Rorshach test.”
-But for some reason, all that came up were pictures of my parents fighting.`,
 
 ` What do we want?
 
