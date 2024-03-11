@@ -146,8 +146,6 @@ But hay, it’s in my jeans.`,
 ` Why don’t blind people skydive?
 Because it scares their dogs.`,
 
-` What’s the difference between an oral thermometer and a rectal thermometer?
-The taste, mostly.`,
 
 ` I stayed up all night and tried to figure out where the sun was.
 Then it dawned on me.`,
