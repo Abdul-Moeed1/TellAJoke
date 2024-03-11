@@ -130,9 +130,6 @@ Because they’re really good at it.`,
 He ate his pizza before it was cool.`,
 
 
-` What do you get when you cross a dyslexic, an insomniac, and an agnostic?
-Someone who lays awake at night wondering if there’s a dog.`,
-
 ` As a scarecrow, people say I’m outstanding in my field.
 But hay, it’s in my jeans.`,
 
