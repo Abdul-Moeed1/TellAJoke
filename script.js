@@ -243,7 +243,6 @@ I told her there were no girls allowed in my fort.`, `Why don't scientists trust
               `I used to play piano by ear, but now I use my hands and fingers.`,
               `What do you call a fish wearing a crown? A kingfish.`,
               `Why don't scientists trust atoms? Because they make up everything.`,
-              `I'm on a whiskey diet. I've lost three days already.`,
               `Why did the scarecrow win an award? Because he was outstanding in his field.`,
               `I told my computer I needed a break, and now it won't stop sending me vacation ads.`,
               `Why did the math book look sad? Because it had too many problems.`,
