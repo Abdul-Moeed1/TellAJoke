@@ -233,9 +233,7 @@ But John came fifth and won a toaster.`,
 
 ` Why don’t some fish play piano?
 Because you can’t tuna fish!`,
-
-` My wife accused me the other day of being too immature.
-I told her there were no girls allowed in my fort.`, `Why don't scientists trust atoms? Because they make up everything.`,
+             `Why don't scientists trust atoms? Because they make up everything.`,
               `Parallel lines have so much in common. It’s a shame they’ll never meet.`,
               `I told my wife she was drawing her eyebrows too high. She looked surprised.`,
               `I only know 25 letters of the alphabet. I don't know y.`,
