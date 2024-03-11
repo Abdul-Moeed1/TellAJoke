@@ -17,9 +17,6 @@ Sorry, I’m still working on it.`,
  Did you hear about the fire at the circus?
 It was in tents!`,
 
-` Why do ducks have feathers?
-To cover their butt quacks!`,
-
 ` What’s the difference between a hippo and a zippo?
 One is really heavy and the other’s a little lighter.`,
 
