@@ -135,9 +135,6 @@ Attire.`,
 ` You know why you never see elephants hiding up in trees?
 Because they’re really good at it.`,
 
-` A horse walks into a bar.
-The bartender says, “Why the long face?”`,
-
 ` How did the hipster burn his mouth?
 He ate his pizza before it was cool.`,
 
@@ -179,14 +176,7 @@ Clooney says, “I’ll direct.”
 DiCaprio says, “I’ll act.”
 
 McConaughey says, “I’ll write, I’ll write, I’ll write.”
-`,
-             
-` A horse walks into a bar.
-
-The bartender says, “Hey!”
-
-The horse replies, “Sure.”
-`,
+`,     
              
 ` I googled “Rorshach test.”
 But for some reason, all that came up were pictures of my parents fighting.`,
