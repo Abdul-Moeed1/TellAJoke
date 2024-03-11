@@ -43,8 +43,6 @@ In inches—they don’t have feet.`,
 ` What does a house wear?
 Address!`,
 
-` Why are toilets always so good at poker?
-They always get a flush`,
 
 ` Why is Peter Pan always flying?
 Because he Neverlands. (I love this joke because it never grows old.)`,
