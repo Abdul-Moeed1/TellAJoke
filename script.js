@@ -39,8 +39,6 @@ No pun in ten did.`,
 ` How do you measure a snake?
 In inches—they don’t have feet.`,
 
-` Where does a waitress with only one leg work?
-IHOP.`,
 
 ` What does a house wear?
 Address!`,
